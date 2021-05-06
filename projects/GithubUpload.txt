@@ -1,1 +1,6 @@
-Working on github flow
+Hogwarts Houses are as follows:
+
+Ravenclaw
+Griffindore
+Hufflepuff
+Slitherin
