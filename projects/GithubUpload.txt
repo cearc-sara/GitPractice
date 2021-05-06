@@ -1,3 +1,13 @@
 Welcome to Hogwarts! 
 
 You will be sorted into your houses momentarily.....
+
+Hogwarts Houses are as follows:
+
+Ravenclaw
+Griffindore
+Hufflepuff
+Slitherin
+
+
+
